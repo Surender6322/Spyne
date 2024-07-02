@@ -13,7 +13,7 @@ const unlikePost = require("./routes/posts/unlike");
 const createComment = require("./routes/posts/createComments");
 const getComments = require("./routes/posts/getComments");
 const deleteComment = require("./routes/posts/deleteComment");
-const updateComment = require("./routes/posts/updateComment");
+const updateComment = require("./routes/posts/updateComments");
 
 const getProfile = require("./routes/profile/profile");
 const getHashtags = require("./routes/profile/hashtags");
